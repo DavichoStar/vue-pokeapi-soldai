@@ -1,24 +1,40 @@
 # vue-pokeapi-soldai
 
-## Project setup
-```
+<div align="center">
+
+![SodAI Logo](https://soldai.com/img/logo.b65256fc.svg)
+<img style="width: 120px" src="https://pokeapi.co/static/pokeapi_256.888baca4.png">
+
+</div>
+
+Pequeño proyecto que utiliza la tecnología de [SoldAI](https://soldai.com/) y la API de [PokéAPI](https://pokeapi.co/) en una página web hecho con [Vue](https://v3.vuejs.org/)
+
+## Configuración del proyecto
+
+```bat
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+y deverá espesificar una variable de entorno `VUE_APP_SOLDAI`
+
+### Compila y recarga para el desarrollo
+
+```bat
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### Compila y minifica para la producción
+
+```bat
 npm run build
 ```
 
-### Lints and fixes files
-```
+### Lints y arreglos archivos
+
+```bat
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalizar configuración
+
+Ver [Referencia de configuración](https://cli.vuejs.org/config/).
