@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SodAI Logo](https://soldai.com/img/logo.b65256fc.svg)
+<img style="width: 120px" src="https://soldai.com/wp-content/uploads/2020/12/0_Imagotipo_Soldai_crvs_pantones_RGB-03-768x241.png">
 <img style="width: 120px" src="https://pokeapi.co/static/pokeapi_256.888baca4.png">
 
 </div>
